@@ -1,0 +1,11 @@
+$$pattern: header
+<header>
+  this is header
+</header>
+$$end
+
+$$pattern: footer
+<footer>
+  this is footer
+</footer>
+$$end
